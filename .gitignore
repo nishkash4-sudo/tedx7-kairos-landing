@@ -1,0 +1,5 @@
+# Local Claude Code tooling / dev skills — not part of the deliverable
+.claude/
+
+# OS cruft
+.DS_Store
