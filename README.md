@@ -2,7 +2,7 @@
 
 Landing page for **TEDxMDIGurgaon 7.0**, built for the TEDx induction task.
 
-A single, self-contained `index.html` — no build step, no dependencies. Open it directly or host it as a static file.
+A single, self-contained `index.html` — no build step, no dependencies. Just open it directly in a browser, or host it as a static file.
 
 ## Sections
 - **Hero** — featured 5–10s clip from TEDx 6.0 (*"Beyond Brick and Mortar"*, Dr. Dheeraj Dogra), looping via the YouTube IFrame API, with the speaker credit and a memorable quote.
